@@ -30,10 +30,10 @@
 }
 
 .pocket {
-  border-left: 150px solid #f5a3a2; /* Soft pinkish red for the pocket */
-  border-right: 150px solid #f5a3a2;
-  border-bottom: 95px solid #ff6f61; /* Lighter romantic red */
-  border-top: 95px solid transparent;
+  border-left: 140px solid #f5a3a2; /* Soft pinkish red for the pocket */
+  border-right: 140px solid #f5a3a2;
+  border-bottom: 90px solid #ff6f61; /* Lighter romantic red */
+  border-top: 90px solid transparent;
   border-bottom-left-radius: 6px;
   border-bottom-right-radius: 6px;
 }
@@ -44,9 +44,9 @@
   width: 90%;
   margin-left: auto;
   margin-right: auto;
-  height: 92%;
+  height: 90%;
   top: 5%;
-  border-radius: 8px;
+  border-radius: 6px;
   box-shadow: 0 2px 26px rgba(0, 0, 0, 0.12);
   font-family: "Dancing Script", cursive;
 }
@@ -62,35 +62,35 @@
 
 .words {
   position: absolute;
-  left: 14%;
-  width: 85%;
-  height: 18%;
+  left: 10%;
+  width: 80%;
+  height: 14%;
   background-color: #ffe6e6; /* Light romantic tone */
 }
 
 .words.line1 {
-  top: 14%;
+  top: 10%;
   font-size: 0.5rem;
-  width: 25%;
-  height: 8%;
+  width: 20%;
+  height: 7%;
   font-size: 0.7rem;
 }
 
 .words.line2 {
   top: 30%;
   text-align: center;
-  font-size: 1rem;
+  font-size: 1.1rem;
 }
 
 .words.line3 {
   top: 50%;
-  font-size: 1rem;
+  font-size: 1.1rem;
   text-align: center;
 }
 
 .words.line4 {
   top: 70%;
-  font-size: 1rem;
+  font-size: 1.1rem;
   text-align: center;
 }
 
@@ -264,6 +264,3 @@ body {
   background-color: #d9534f;
   color: #fff;
 }
-
-
-
